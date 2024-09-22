@@ -1,12 +1,35 @@
-<<<<<<< HEAD
-# ajaorecruiter
-=======
-# React + Vite
+# AjaoRecruiter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AjaoRecruiter is a web application built with React and Vite.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> c12a3c6 (1st commit)
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed on your local machine:
+
+* [Node.js](https://nodejs.org/en/) (v14.0.0 or later)
+* [npm](https://www.npmjs.com/) (usually comes with Node.js)
+
+### Installation
+
+1. Clone the repository
+   ```
+   git clone https://github.com/mardan-shah/ajaorecruiter.git
+   ```
+2. Navigate to the project directory
+   ```
+   cd ajaorecruiter
+   ```
+3. Install NPM packages
+   ```
+   npm install
+   ```
+4. Running the Application
+To run the application in development mode:
+   ```
+   npm run dev
+   ```
+  
